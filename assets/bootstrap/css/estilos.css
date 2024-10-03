@@ -1,0 +1,12 @@
+.bodystyle {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.placement {
+    display: flex;
+}
+
+.formdiv {
+    height: 200;
+    width: 50%;
+}
